@@ -1,0 +1,23 @@
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe.config
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\bin\Debug\Computer Shop Management System.pdb
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.csprojAssemblyReference.cache
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.login.resources
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.Properties.Resources.resources
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.GenerateResource.cache
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.exe
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.pdb
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.catalogue.resources
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.LOGINPAGE.resources
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.signuppage.resources
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.whosgonnalogin.resources
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.adminprofile.resources
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.employeeDetails.resources
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.purchase.resources
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.purchaseconfirmation.resources
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.adminsignin.resources
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.adminsignup.resources
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.employeelogin.resources
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.employeesignup.resources
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.productdetails.resources
+C:\Users\Wasif\Desktop\study\C# project\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.customerpage.resources
